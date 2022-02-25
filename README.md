@@ -9,7 +9,7 @@ Front-end application written in [Node.js](https://nodejs.org/en/) that puts tog
 
 # Setting up Dev Env
 # Ubuntu vertion changed from 18.04.04 to 18.04.05
-# Added additional information 
+# Added additional information branch added 
 Platform : Ubuntu 18.04.05
 
 
